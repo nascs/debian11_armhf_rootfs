@@ -1,0 +1,14 @@
+libubootenv.so.0 libubootenv0.1 #MINVER#
+ libuboot_close@Base 0.2
+ libuboot_configure@Base 0.2
+ libuboot_env_store@Base 0.2
+ libuboot_exit@Base 0.2
+ libuboot_get_env@Base 0.2
+ libuboot_getname@Base 0.2
+ libuboot_getvalue@Base 0.2
+ libuboot_initialize@Base 0.2
+ libuboot_iterator@Base 0.2
+ libuboot_load_file@Base 0.2
+ libuboot_open@Base 0.2
+ libuboot_read_config@Base 0.2
+ libuboot_set_env@Base 0.2

@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/bin
+/usr/bin/fw_printenv
+/usr/bin/fw_setenv
+/usr/share
+/usr/share/doc
+/usr/share/doc/libubootenv-tool
+/usr/share/doc/libubootenv-tool/changelog.Debian.gz
+/usr/share/doc/libubootenv-tool/copyright

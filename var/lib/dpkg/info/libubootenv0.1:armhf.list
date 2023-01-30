@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libubootenv.so.0.3.2
+/usr/share
+/usr/share/doc
+/usr/share/doc/libubootenv0.1
+/usr/share/doc/libubootenv0.1/changelog.Debian.gz
+/usr/share/doc/libubootenv0.1/copyright
+/usr/lib/arm-linux-gnueabihf/libubootenv.so.0

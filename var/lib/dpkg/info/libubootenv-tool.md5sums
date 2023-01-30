@@ -1,0 +1,4 @@
+0864b4620e8da9c2cffe61166802db81  usr/bin/fw_printenv
+c24b2d13640790217613ee18fa61e015  usr/bin/fw_setenv
+f780a9f646b30f062428b62a6fa4948c  usr/share/doc/libubootenv-tool/changelog.Debian.gz
+b2dfbeb732302832aab19384ecc1ef19  usr/share/doc/libubootenv-tool/copyright

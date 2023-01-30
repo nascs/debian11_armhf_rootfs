@@ -1,0 +1,8 @@
+ee4a566cbbbc1311c0d2be15604f12d4  usr/lib/arm-linux-gnueabihf/libqmi-glib.so.5.7.0
+047b8039390026d63a7effb41cbd93f7  usr/share/doc/libqmi-glib5/AUTHORS
+ea98ace96674b99c554adadef330a962  usr/share/doc/libqmi-glib5/NEWS.gz
+bdc54210c540ea1bac8458317c6205ee  usr/share/doc/libqmi-glib5/README
+29e30c3fa130707ebe4e332f8be617d5  usr/share/doc/libqmi-glib5/changelog.Debian.gz
+c32037403f480164c298df36959f7259  usr/share/doc/libqmi-glib5/changelog.gz
+ae62855083ae768f33a75b0ad0796560  usr/share/doc/libqmi-glib5/copyright
+efc71f724e4e560c3db789c5d81dd3d3  usr/share/lintian/overrides/libqmi-glib5

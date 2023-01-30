@@ -1,0 +1,348 @@
+Package: libnetfilter-conntrack3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libssh2-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwrap0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcurl4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-agent-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: initramfs-tools-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfdt1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmm-glib0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnghttp2-14
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcurl3-gnutls
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssh-client
+Architecture: armhf
+Auto-Installed: 1
+
+Package: iptables
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnl-3-200
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnl-genl-3-200
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqmi-proxy
+Architecture: armhf
+Auto-Installed: 1
+
+Package: wpasupplicant
+Architecture: armhf
+Auto-Installed: 1
+
+Package: modemmanager
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libldap-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pigz
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmbim-glib4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpam-systemd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: usb-modeswitch-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubootenv-tool
+Architecture: armhf
+Auto-Installed: 1
+
+Package: busybox
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ppp
+Architecture: armhf
+Auto-Installed: 1
+
+Package: device-tree-compiler
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnl-route-3-200
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ucf
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsasl2-modules
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsasl2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libexpat1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxmuu1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfido2-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librtmp1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgpm2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxau6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdbus-1-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: wireless-regdb
+Architecture: armhf
+Auto-Installed: 1
+
+Package: runit-helper
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsasl2-modules-db
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxml2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglib2.0-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libldap-2.4-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: shared-mime-info
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libyaml-0-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: publicsuffix
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libx11-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgudev-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xdg-user-dirs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dnsmasq-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpcap0.8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: klibc-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libndp0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xauth
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpcsclite1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcbor0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: linux-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libusb-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjim0.79
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libteamdctl0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libklibc
+Architecture: armhf
+Auto-Installed: 1
+
+Package: usb-modeswitch
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmbim-proxy
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnfnetlink0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-gobject-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libip6tc2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: vim-runtime
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ca-certificates
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqmi-glib5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbluetooth3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglib2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubootenv0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssh-sftp-server
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libc-l10n
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbrotli1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxext6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libx11-6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ncurses-term
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnm0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dbus
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libicu67
+Architecture: armhf
+Auto-Installed: 1
+
+Package: policykit-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpsl5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dns-root-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxdmcp6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssl
+Architecture: armhf
+Auto-Installed: 1
+

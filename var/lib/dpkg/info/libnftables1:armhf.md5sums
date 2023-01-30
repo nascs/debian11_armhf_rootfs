@@ -1,0 +1,5 @@
+88e2d785fd578e774ab04b4813de1c45  usr/lib/arm-linux-gnueabihf/libnftables.so.1.0.0
+3c0de3f06687d6b39e45edfc9b9d8b30  usr/share/doc/libnftables1/changelog.Debian.gz
+b4b788b753408606bc093eed9114b39d  usr/share/doc/libnftables1/copyright
+85273c35709a53c92c86fff2ee261de4  usr/share/man/man3/libnftables.3.gz
+90cebf507d202d379d85e803f84317e2  usr/share/man/man5/libnftables-json.5.gz

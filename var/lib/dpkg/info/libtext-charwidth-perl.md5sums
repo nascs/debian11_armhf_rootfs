@@ -1,0 +1,8 @@
+202e49d79a8513b4e65298049106a357  usr/lib/arm-linux-gnueabihf/perl5/5.32/Text/CharWidth.pm
+be1456c9bfde9da06cade40ac8d56f18  usr/lib/arm-linux-gnueabihf/perl5/5.32/auto/Text/CharWidth/CharWidth.so
+d8d54c8c500cbdd57a4c15911d9d96db  usr/share/doc/libtext-charwidth-perl/README
+bf7eae1987e0f16f9fff39c50c1832f3  usr/share/doc/libtext-charwidth-perl/changelog.Debian.armhf.gz
+8733f13c39e665d38b5cd4c4d143b607  usr/share/doc/libtext-charwidth-perl/changelog.Debian.gz
+00367b859039bef97fa30994eb95aa98  usr/share/doc/libtext-charwidth-perl/changelog.gz
+312846f78f62bddab71152a300ab774a  usr/share/doc/libtext-charwidth-perl/copyright
+1718537c8ff06f8e6535045e8e795f42  usr/share/man/man3/Text::CharWidth.3pm.gz
